@@ -32,7 +32,7 @@ return (
         className="relative w-2/5 h-full flex justify-center items-center"
     >
         <img
-        src="/main1.jpg"
+        src={`${import.meta.env.BASE_URL}main1.jpg`}
         alt="Task management illustration"
         className="rounded-lg shadow-lg w-full h-full "
         style={{ transform: "skew(-10deg)" }}
@@ -41,3 +41,4 @@ return (
     </section>
 );
 }
+
