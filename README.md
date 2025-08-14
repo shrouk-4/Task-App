@@ -35,7 +35,7 @@ TaskApp is a modern, responsive web application built with React, Tailwind CSS, 
    npm run dev
    ```
 ## MY PROJECT 
-! [App Face](assets/screenshot.png)
+! [App Face](src/assets/Screenshot.png)
 ## Project Structure
 - **/src**: Main source code
 - **/components**: React components (Hero, Features, Pricing, Reviews, Footer, etc.)
