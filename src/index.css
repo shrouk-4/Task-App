@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* أي ستايل إضافي تحبيه */
+html {
+    scroll-behavior: smooth; /* يخلي التمرير ناعم */
+}
+
+body {
+    font-family: sans-serif;
+}
